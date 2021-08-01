@@ -1,6 +1,5 @@
 import JWT
 import base64
-from playsound import playsound
 import os
 
 fileDirectory = "demo.jpeg"
